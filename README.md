@@ -1,4 +1,4 @@
-“Jasna Jovanova 223103  
+#Jasna Jovanova 223103  
 2.*Control Flow Graph*   
 ![kraaaaaaaaj drawio](https://github.com/JasnaJovanova/SI_2024_lab2_223103/assets/139164424/1e00cfe6-22dd-45e6-a8fc-1aa0795fdb5f)
 
